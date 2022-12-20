@@ -1,0 +1,8 @@
+First i downloaded the metamask extension from chrome stoe
+Then i installed and created account on metamask 
+I added a manual network of binance testnet 
+I searched https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
+Then i added the testnet to metamask 
+For creating the token i opened the website https://trustswap.com/
+Then  i created the token on binance blockchain and added confirmed the transaction by metamask wallet 
+My token address - 0x8a90A62419214096Ec6B8695d11773df87c1e312

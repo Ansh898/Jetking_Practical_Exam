@@ -1,4 +1,4 @@
-First i downloaded the metamask extension from chrome stoe
+First i downloaded the metamask extension from chrome store
 Then i installed and created account on metamask 
 I added a manual network of binance testnet 
 I searched https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
